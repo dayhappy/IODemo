@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="slf4j-api-1.7.25">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../attendences/target/attendances/WEB-INF/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.6/lombok-1.18.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
